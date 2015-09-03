@@ -1,0 +1,6 @@
+made by tinywork just for learning git
+
+hello git:
+
+clone
+init
