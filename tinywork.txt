@@ -4,3 +4,5 @@ hello git:
 
 clone
 init
+add
+commit
